@@ -3,7 +3,7 @@ name = "SigmaOS-fudgets"
 tier = 2
 stability = "scaffold"
 language = "rust"
-description = "fudgets component"
+description = "fudgets platform GUI toolkit component"
 upstream = []
 
 [contract]
